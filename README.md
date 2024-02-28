@@ -24,13 +24,11 @@ Unleash the true potential of mainframe data with our REST-API spell! We've summ
 
 To join our magical journey, follow these steps:
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/mainframe-wizardry.git`
-2. **Enter the Magical Realm**: `cd mainframe-wizardry`
-3. **Install Dependencies**: Cast the spell `pip install -r requirements.txt` to gather the necessary enchantments.
-4. **Run the Demos**: Invoke the command `python main.py` and witness the wonders unfold!
+1. **Clone the Repository**: `git clone https://github.com/wizardofzos/otown24.git`
+2. **Enter the Magical Realm**: `cd otown24`
+3. **PER demo-x folder do**:
+  1. **Setup Virtual Env**: python -m venv venv && . venv/bin/activate
+  2. **Install Dependencies**: Cast the spell `pip install -r requirements.txt` to gather the necessary enchantments.
+  3. **Run the Demos**: Invoke the command `python main.py` and witness the wonders unfold!
 
-## Join the Quest!
 
-Are you ready to become a true Mainframe Wizard? Join us in the live session as we unravel the secrets, perform live demos, and share insider insights. Don't miss your chance to wield Python in the mystical land of mainframes!
-
-See you at the session, and may your code be ever enchanting! 
